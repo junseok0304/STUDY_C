@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void){
+int main(void)
+{
   printf("* 프로그래밍 언어의 분류\n");
   printf("  - 기계어(machine language)\n");
   printf("  - 어셈블리어(assembly language)\n");
